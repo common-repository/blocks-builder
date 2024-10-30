@@ -1,0 +1,8 @@
+.templatic-admin-setting-common p{margin-bottom:10px;}
+.plan-btn p {background: #ccc; padding: 5px 20px;}
+.setting-common-blk{display:none;}
+.setting-blok-1:nth-child(2){display:block;}
+.setting-blok-2:nth-child(2),.setting-blok-2:nth-child(3){display:block;}
+.setting-blok-3:nth-child(2),.setting-blok-3:nth-child(3),.setting-blok-3:nth-child(4){display:block;}
+.setting-blok-4:nth-child(2),.setting-blok-4:nth-child(3),.setting-blok-4:nth-child(4),.setting-blok-4:nth-child(5){display:block;}
+.setting-blok-5:nth-child(2),.setting-blok-5:nth-child(3),.setting-blok-5:nth-child(4),.setting-blok-5:nth-child(5),.setting-blok-5:nth-child(6){display:block;}

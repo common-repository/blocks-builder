@@ -1,0 +1,5 @@
+.blocks-builder-admin-setting-common p{margin-bottom:10px;}
+.components-toolbar{margin-top:0px !important;}
+.editor-styles-wrapper .blocks-builder-text-main-in h1,.editor-styles-wrapper .blocks-builder-text-main-in h2,.editor-styles-wrapper .blocks-builder-text-main-in h3,.editor-styles-wrapper .blocks-builder-text-main-in h4,.editor-styles-wrapper .blocks-builder-text-main-in h5,.editor-styles-wrapper .blocks-builder-text-main-in h6{padding:0;}
+
+.editor-styles-wrapper .blocks-builder-text-main-in h1,.editor-styles-wrapper .blocks-builder-text-main-in h2:before{content:none;}

@@ -1,0 +1,9 @@
+.blocks-builder-btn-main-in a{border:1px solid #0000ff; padding:5px 20px; box-shadow:none !important; min-width:100px; display:inline-block;}
+.btn_rnd_sqr_styl a{border-radius:5px;}
+.btn_circl_styl a{border-radius:25px;}
+.btn_siz_sml{font-size:14px; line-height:20px;}
+.btn_siz_midm{font-size:18px; line-height:24px;}
+.btn_siz_lrg{font-size:22px; line-height:28px;}
+.btn_siz_ex_lrg{font-size:26px; line-height:32px;}
+.blocks-builder-btn-main-in a:hover{opacity:0.7;}
+.blocks-builder-btn-main{margin-bottom:10px;}

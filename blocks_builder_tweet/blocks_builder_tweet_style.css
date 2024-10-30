@@ -1,0 +1,8 @@
+a{color:inherit;}
+.blok-tweet-main{padding:15px; border:1px solid #1da1f2; margin-bottom:10px;}
+.blok-tweet-btn a{background:#1da1f2; padding:5px 15px; color:#fff; border:1px solid #1da1f2; font-size:14px; box-shadow:none !important;}
+.blok-tweet-btn a::before{content: "\f099"; font-family:"Font Awesome 5 Brands"; padding-right:5px;}
+.blok-tweet-txt::before{content: "\f099"; font-family:"Font Awesome 5 Brands"; position:absolute; top:0; left:0; font-size:28px; line-height:30px;}
+.blok-tweet-txt{padding-left:40px; position:relative;  text-align:left;}
+.blok-tweet-btn a:hover{box-shadow:none !important; color:#fff; opacity:0.7;}
+.all-round{border-radius:5px;}

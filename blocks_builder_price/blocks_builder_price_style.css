@@ -1,0 +1,21 @@
+.show-price-block1 .price-in-common{width:100%;}
+.show-price-block2 .price-in-common{width:47%;}
+.show-price-block3 .price-in-common{width:30.33%;}
+.show-price-block4 .price-in-common{width:22%;}
+.show-price-block5 .price-in-common{width:17%;}
+.show-price-block1 .price-in-common:first-child{display:inline-block;}
+.show-price-block2 .price-in-common:first-child,.show-price-block2 .price-in-common:nth-child(2){display:inline-block;}
+.show-price-block3 .price-in-common:first-child,.show-price-block3 .price-in-common:nth-child(2),.show-price-block3 .price-in-common:nth-child(3){display:inline-block;}
+.show-price-block4 .price-in-common:first-child,.show-price-block4 .price-in-common:nth-child(2),.show-price-block4 .price-in-common:nth-child(3),.show-price-block4 .price-in-common:nth-child(4){display:inline-block;}
+.show-price-block5 .price-in-common:first-child,.show-price-block5 .price-in-common:nth-child(2),.show-price-block5 .price-in-common:nth-child(3),.show-price-block5 .price-in-common:nth-child(4),.show-price-block5 .price-in-common:nth-child(5){display:inline-block;}
+.price-in-common{display:none; border:1px solid #000; padding:40px 10px; background:rgba(140,140,151,0.1); text-align:center;}
+.plan-amt-txt p{font-size:40px !important; line-height:50px !important; margin-bottom:30px; font-weight:600;}
+.plan-feature-txt p{margin-bottom:15px;}
+.wp-block-blockbuilde-price .price-in-common{margin:0 1.5%;}
+.blok-show{display:block;}
+.blok-none{display:none;}
+.btn-rndshap{border-radius:25px;}
+.plan-btn a:hover{box-shadow:none !important; cursor:pointer;}
+.plan-btn a{box-shadow:none !important;  border-bottom:none; background: #ccc; color: #fff; padding: 5px 20px; font-size:18px;}
+.plan-txt p{font-size:18px; margin-bottom:25px;}
+.curncy{font-size:12px;}

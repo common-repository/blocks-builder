@@ -1,0 +1,3 @@
+.blocks-builder-text-main{margin-bottom:10px;}
+.blocks-builder-text-main-in h1, .blocks-builder-text-main-in h2, .blocks-builder-text-main-in h3, .blocks-builder-text-main-in h4, .blocks-builder-text-main-in h5, .blocks-builder-text-main-in h6{text-transform:none;}
+.blocks-builder-text-main-in h1, .blocks-builder-text-main-in h2:before{content:none;}

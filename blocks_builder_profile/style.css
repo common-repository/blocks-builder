@@ -1,0 +1,12 @@
+.my-custom-block1{color:#000000; background: gold; border:1px solid #000000; padding:5px;}
+.wp-block-custome-block1{margin-bottom:10px;}
+.wp-block-custome-block1 > div{display:flex;}
+.wp-block-custome-block1 .organic-profile-image1{background-position:center; width:40%; display:inline-block; background-size:cover;}
+.wp-block-custome-block1 .organic-profile-image1 > button{padding:0px;}
+.wp-block-custome-block1 .organic-profile-image1 img{width:100%; padding:15px;}
+.wp-block-custome-block1 .organic-profile-txt{width:60%; display:inline-block; vertical-align:top; padding:15px;}
+.social-common {padding:5px; margin:5px;}
+.social-common a{padding:5px; width:30px; height:30px; display:inline-block; line-height:21px; margin:5px; text-decoration:none; background:#000; color:#fff; box-shadow:none !important; text-align:center;  border-bottom:none !important;}
+.social-common-radius a{border-radius:50%;}
+.social-common a:hove{box-shadow:none !important;}
+.organic-profile-txt h3,.organic-profile-txt p{margin-bottom:10px;}
